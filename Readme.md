@@ -4,10 +4,12 @@
 - Backend na porta 5000
 - Frontend na porta 3000
 - Comandos para teste:
+
     ! Em um terminal, faça:
     - cd backend
     - npm i
-    - npm start
+    - npm start 
+    
     ! Em outro terminal, faça:
     - cd frontend  
     - npm i
